@@ -1,0 +1,22 @@
+.todo {
+    display: flex;
+    flex-direction: row;
+    justify-content:flex-start;
+}
+
+.main {
+    padding-left: 15vw;
+    margin-top: 5vh;
+}
+
+p {
+    margin: 2px;
+}
+
+#percentage {
+    margin: 0 auto 15px auto;
+}
+
+h2 {
+    margin: 10px;
+}
